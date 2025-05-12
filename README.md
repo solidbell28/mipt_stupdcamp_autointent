@@ -42,12 +42,6 @@ library.
 Each subfolder under `src` corresponds to an experiment and contains the source files for the augmentation methods
 introduced in that experiment.
 
-### `src/experiment_1`
-
-- `[file_a.py]` – Description of module A
-- `[file_b.py]` – Description of module B
-- `...`
-
 ### `src/experiment_2`
 
 - `critic_human_like.py` – Binary classifier that evaluates utterance naturalness using:
