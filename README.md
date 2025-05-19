@@ -87,6 +87,5 @@ introduced in that experiment.
 
 ### `src/experiment_6`
 
-- `[file_a.py]` – Description of module A
-- `[file_b.py]` – Description of module B
-- `...`
+- `AllIntentGenerator.py` – Uses 2 consecutive LMS, one generates new utterances similar to a given class and unlike others,
+   the second selects the best examples and generated ones.
